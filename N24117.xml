@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:031893_0000_0FEF330A921BE510"/>
-            <pb facs="tcp:031893_0001_0FEF3117E0B7EE48"/>
+            <pb facs="unknown:031893_0000_0FEF330A921BE510"/>
+            <pb facs="unknown:031893_0001_0FEF3117E0B7EE48"/>
             <p>BUNKER-HILL; OR THE DEATH OF GENERAL WARREN AN HISTORIC TRAGEDY.</p>
             <p>IN FIVE ACTS.</p>
             <p>BY JOHN BURK, LATE OF TRINITY COLLEGE, DUBLIN.</p>
@@ -127,7 +127,7 @@
             <p>M.DCC, XCVII.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:031893_0002_0FEF330C27BDFB10"/>
+            <pb facs="unknown:031893_0002_0FEF330C27BDFB10"/>
             <head>DEDICATION.</head>
             <opener>
                <salute>SIR,</salute>
@@ -144,7 +144,7 @@
             </postscript>
          </div>
          <div type="prologue">
-            <pb facs="tcp:031893_0003_0FEF330FA770BDA0"/>
+            <pb facs="unknown:031893_0003_0FEF330FA770BDA0"/>
             <head>PROLOGUE—</head>
             <byline>BY THE AUTHOR.</byline>
             <l>WHEN o'er Columbia's fields in fearful hour,</l>
@@ -179,7 +179,7 @@
             <l>A nobler theme than this, to grace the ſtage,</l>
             <l>Where can we find in all th' hiſtoric page?</l>
             <l>
-               <pb facs="tcp:031893_0004_0FEF312181FA1A80"/>Of Rome's and Cato's fall, the World has rung:</l>
+               <pb facs="unknown:031893_0004_0FEF312181FA1A80"/>Of Rome's and Cato's fall, the World has rung:</l>
             <l>Why not Columbia's riſing fame be ſung?</l>
             <l>If Rome her Brutus and her Cato boaſt;</l>
             <l>Her Waſhington and Warren, each a hoſt,</l>
@@ -202,7 +202,7 @@
                <hi>Columbia's</hi> Glories to <hi>Columbia's</hi> race.</l>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:031893_0005_0FEF331220405130"/>
+            <pb facs="unknown:031893_0005_0FEF331220405130"/>
             <head>DRAMATIS PERSONAE.</head>
             <list>
                <label>GENERAL WARREN,</label>
@@ -232,7 +232,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:031893_0006_0FEF33148C6BDAF8"/>
+            <pb facs="unknown:031893_0006_0FEF33148C6BDAF8"/>
             <head>BUNKER-HILL.</head>
             <div n="1" type="act">
                <head>ACT. I.</head>
@@ -253,7 +253,7 @@
                <l>Should cope with diſcipline, or knee to knee</l>
                <l>The ſun burnt veteran combat.</l>
                <sp>
-                  <pb n="8" facs="tcp:031893_0007_0FEF331620B72328"/>
+                  <pb n="8" facs="unknown:031893_0007_0FEF331620B72328"/>
                   <speaker>Lord Percy.</speaker>
                   <l>Your Excellency ſhall be ſatisfied</l>
                   <l>In each particular of this toilſome day,</l>
@@ -297,7 +297,7 @@
                   <l>To ſuccour Smith, or take what other courſe</l>
                   <l>Requir'd by circumſtances; judge my ſurprize,</l>
                   <l>
-                     <pb n="9" facs="tcp:031893_0008_0FEF3319E55DC008"/>When I beheld Smith's party in full rout,</l>
+                     <pb n="9" facs="unknown:031893_0008_0FEF3319E55DC008"/>When I beheld Smith's party in full rout,</l>
                   <l>With thouſands and ten thouſands at his heels,</l>
                   <l>All order fled, confuſion through the ranks</l>
                   <l>Stalking with death and terror in his train:</l>
@@ -328,7 +328,7 @@
                   <l>For they will ne'er believe a peaſant root,</l>
                   <l>Unexperienc'd to arms, unus'd to War,</l>
                   <l>
-                     <pb n="10" facs="tcp:031893_0009_0FEF331D8E861420"/>Could ſtand before a Britiſh ſoldiery,</l>
+                     <pb n="10" facs="unknown:031893_0009_0FEF331D8E861420"/>Could ſtand before a Britiſh ſoldiery,</l>
                   <l>Unleſs by ſome miſconduct in their chiefs.</l>
                   <l>Beſide, 'twill have another bad effect:</l>
                   <l>The ſpirits of thoſe rebels will be rais'd,</l>
@@ -364,7 +364,7 @@
                   <l>Arriv'd from England; but this affair</l>
                   <l>Has diſconcerted all our beſt laid ſchemes.</l>
                   <l>
-                     <pb n="11" facs="tcp:031893_0010_0FEF31165BFCB028"/>Now all America will riſe in arms,</l>
+                     <pb n="11" facs="unknown:031893_0010_0FEF31165BFCB028"/>Now all America will riſe in arms,</l>
                   <l>And thus a war, which in its infancy</l>
                   <l>Might have been cruſh'd with eaſe, will yet remain</l>
                   <l>An heritage to our poſterity—</l>
@@ -418,7 +418,7 @@
                         <desc>〈◊〉</desc>
                      </gap> we patrol'd the lines</l>
                   <l>
-                     <pb n="12" facs="tcp:031893_0011_0FEF331F29100A08"/>To ſee that all the paſſes were ſecur'd,</l>
+                     <pb n="12" facs="unknown:031893_0011_0FEF331F29100A08"/>To ſee that all the paſſes were ſecur'd,</l>
                   <l>According to your Excellency's orders,</l>
                   <l>A cloud of duſt approaching to the town</l>
                   <l>Darken'd the air—inſtant we ſent ſcouts,</l>
@@ -456,7 +456,7 @@ Such are the men who ſow this world with broils:</l>
                   <l>Lives on thy vitals; but more voracious:</l>
                   <l>'Tis not enough for them to drink thy blood,</l>
                   <l>
-                     <pb n="13" facs="tcp:031893_0012_0FEF3321D75EFC88"/>But they muſt turn their carrion ſtained beaks,</l>
+                     <pb n="13" facs="unknown:031893_0012_0FEF3321D75EFC88"/>But they muſt turn their carrion ſtained beaks,</l>
                   <l>To tear the bowels of theſe guiltleſs ſhores:</l>
                   <l>Such is the Britiſh government, and ſuch,</l>
                   <l>Muſt ever be the government of kings:</l>
@@ -486,7 +486,7 @@ Such are the men who ſow this world with broils:</l>
                   <l>Keen edg'd with eaſt wind's coldneſs would offend</l>
                   <l>A coarſer form than thine; how then, ſweet maid,</l>
                   <l>
-                     <pb n="14" facs="tcp:031893_0013_0FEF332584A5BE38"/>Doſt thou in cold's defiance venture here.</l>
+                     <pb n="14" facs="unknown:031893_0013_0FEF332584A5BE38"/>Doſt thou in cold's defiance venture here.</l>
                </sp>
                <sp>
                   <speaker>Elvira.</speaker>
@@ -525,7 +525,7 @@ Such are the men who ſow this world with broils:</l>
                   <l>My father in the Carolinas lives,</l>
                   <l>A wealthy man and high in reputation</l>
                   <l>
-                     <pb n="15" facs="tcp:031893_0014_0FEF3327E51BCD38"/>Acquired in our continental wars,</l>
+                     <pb n="15" facs="unknown:031893_0014_0FEF3327E51BCD38"/>Acquired in our continental wars,</l>
                   <l>What time the warlike French their inroads made,</l>
                   <l>To ſpoil the borders of your provinces;</l>
                   <l>Me, his ſole daughter, he to England ſent,</l>
@@ -564,7 +564,7 @@ Such are the men who ſow this world with broils:</l>
                   <l>Had he been one, amongſt the vulgar herd,</l>
                   <l>Devoid of ſenſe, unprincipled;</l>
                   <l>
-                     <pb n="16" facs="tcp:031893_0015_0FEF332A959D89F0"/>Who, like the preſent race of warlike men,</l>
+                     <pb n="16" facs="unknown:031893_0015_0FEF332A959D89F0"/>Who, like the preſent race of warlike men,</l>
                   <l>For wretched hire would fight on any ſide,</l>
                   <l>It might be eaſy to ſucceed with him;</l>
                   <l>But as he is, the ſoldier of his country,</l>
@@ -608,7 +608,7 @@ Such are the men who ſow this world with broils:</l>
                   <l>And thus alas will he deſtroy my hopes:</l>
                   <l>My ſoul approves of all, that thou haſt ſaid:</l>
                   <l>
-                     <pb n="17" facs="tcp:031893_0016_0FEF332D6B512838"/>And was I ſure my conduct would be judg'd</l>
+                     <pb n="17" facs="unknown:031893_0016_0FEF332D6B512838"/>And was I ſure my conduct would be judg'd</l>
                   <l>By ſuch as thee, ſo prudent and ſo pure,</l>
                   <l>Long ſince deciſion would have crown'd thy wiſh:</l>
                   <l>But as it it is, when flimſy faſhion rules,</l>
@@ -654,7 +654,7 @@ Such are the men who ſow this world with broils:</l>
                   <l>Bleſs'd with the gifts of fortune and of love.</l>
                </sp>
                <sp>
-                  <pb n="18" facs="tcp:031893_0017_0FEF332F0A23F280"/>
+                  <pb n="18" facs="unknown:031893_0017_0FEF332F0A23F280"/>
                   <speaker>Abercrombie.</speaker>
                   <l>Deareſt Elvira.</l>
                   <l>How good art thou, and how unworthy I:</l>
@@ -684,7 +684,7 @@ Such are the men who ſow this world with broils:</l>
                   <l>Now paſſes on, like miſts before the ſun.</l>
                   <l>The day is come for which through every age</l>
                   <l>
-                     <pb n="19" facs="tcp:031893_0018_0FEF33662E2A6F88"/>Sages have ſighed; which like a magic ſpell,</l>
+                     <pb n="19" facs="unknown:031893_0018_0FEF33662E2A6F88"/>Sages have ſighed; which like a magic ſpell,</l>
                   <l>Shall daſh down tyrants and their thrones together,</l>
                   <l>And make their blood-ſtain'd idols fall before it;</l>
                   <l>Too long the world has groan'd beneath the yoke</l>
@@ -715,7 +715,7 @@ Such are the men who ſow this world with broils:</l>
                   <l>Was Cato young, or had he no connections,</l>
                   <l>Whan thro' Numidia's burning ſands he led</l>
                   <l>
-                     <pb n="20" facs="tcp:031893_0019_0FEF33318DFA6E20"/>His little Senate in purſuit of freedom;</l>
+                     <pb n="20" facs="unknown:031893_0019_0FEF33318DFA6E20"/>His little Senate in purſuit of freedom;</l>
                   <l>Preferring pain and every ill to bondage?</l>
                   <l>Was Cincinnatus young, when from the plough,</l>
                   <l>Call'd by his country's voice, he flew to battle?</l>
@@ -749,7 +749,7 @@ Such are the men who ſow this world with broils:</l>
                   <l>And if to theſe, ſweat heaven, I could add</l>
                   <l>The name of Warren, and hand them together</l>
                   <l>
-                     <pb n="21" facs="tcp:031893_0020_0FEF3334CF76B1C8"/>Down in ſucceſſion to poſterity,</l>
+                     <pb n="21" facs="unknown:031893_0020_0FEF3334CF76B1C8"/>Down in ſucceſſion to poſterity,</l>
                   <l>By heaven I'd gladly meet their hardeſt fate</l>
                   <l>And think my life well loſt to merit it.</l>
                   <stage>[A knock at the door.]</stage>
@@ -794,7 +794,7 @@ Such are the men who ſow this world with broils:</l>
                      <l>Supreme diſpoſer of events! I thank thee:</l>
                      <l>Now Britain do thy worſt, we fear thou not:</l>
                      <l>
-                        <pb n="22" facs="tcp:031893_0021_0FEF3337B6189E18"/>Now let thy ſultan iſſue his vain threats,</l>
+                        <pb n="22" facs="unknown:031893_0021_0FEF3337B6189E18"/>Now let thy ſultan iſſue his vain threats,</l>
                      <l>His windy proclamations to theſe ſhores;</l>
                      <l>They will not ſcare a baby; knit by love,</l>
                      <l>Columbia's gallant ſons will ſcorn his rage;</l>
@@ -829,7 +829,7 @@ Such are the men who ſow this world with broils:</l>
                      <speaker>Warren.</speaker>
                      <l>Farewell: and I ſhall follow cloſe behind thee;</l>
                      <l>
-                        <pb n="23" facs="tcp:031893_0022_0FEF312E0C5D9A88"/>But e'er this hand ſhall graſp the vengeful ſteel</l>
+                        <pb n="23" facs="unknown:031893_0022_0FEF312E0C5D9A88"/>But e'er this hand ſhall graſp the vengeful ſteel</l>
                      <l>For one ſhort hour I muſt put off the ſoldier<g ref="char:punc">▪</g>
                      </l>
                      <l>And on the necks of my bewailing kindred,</l>
@@ -878,7 +878,7 @@ Such are the men who ſow this world with broils:</l>
                      <l>Then he hath made his choice; and that is war.</l>
                      <l>His active ſoul diſdains to court repoſe,</l>
                      <l>
-                        <pb n="24" facs="tcp:031893_0023_0FEF33396758EFE0"/>To lie down in the lap of eaſe and pleaſure,</l>
+                        <pb n="24" facs="unknown:031893_0023_0FEF33396758EFE0"/>To lie down in the lap of eaſe and pleaſure,</l>
                      <l>When foreign uſurpation frights the land.</l>
                   </sp>
                   <sp>
@@ -922,7 +922,7 @@ Such are the men who ſow this world with broils:</l>
                      <l>I thank you my brave countrymen,</l>
                      <l>My brothers and companions of the war:</l>
                      <l>
-                        <pb n="25" facs="tcp:031893_0024_0FEF31297520D480"/>This ſingle day has made me full amends</l>
+                        <pb n="25" facs="unknown:031893_0024_0FEF31297520D480"/>This ſingle day has made me full amends</l>
                      <l>For all the tedious hours of painful life,</l>
                      <l>Which I have dragg'd along this wretched land:</l>
                      <l>I've ſeen this day, what once not e'en my zeal</l>
@@ -964,7 +964,7 @@ Such are the men who ſow this world with broils:</l>
                      <speaker>Warren.</speaker>
                      <l>Many there are, thank heaven, leagued with us,</l>
                      <l>
-                        <pb n="26" facs="tcp:031893_0025_0FEF333C48D100F8"/>Whoſe virtues merit an eulogium:</l>
+                        <pb n="26" facs="unknown:031893_0025_0FEF333C48D100F8"/>Whoſe virtues merit an eulogium:</l>
                      <l>But none in my opinion</l>
                      <l>Deſerve ſuch high pre-eminence of praiſe.</l>
                   </sp>
@@ -1008,7 +1008,7 @@ Such are the men who ſow this world with broils:</l>
                      <l>Seize ſome important poſt, threaten the town,</l>
                      <l>Burn the ſhips, and keep on the alert</l>
                      <l>
-                        <pb n="27" facs="tcp:031893_0026_0FEF312471218B90"/>To guard againſt his ſallies; this will make</l>
+                        <pb n="27" facs="unknown:031893_0026_0FEF312471218B90"/>To guard againſt his ſallies; this will make</l>
                      <l>Boſton of ſmall advantage; and force him</l>
                      <l>To quit his holds, and meet us in the field</l>
                      <l>Or fly back in his ſhips to Britain.</l>
@@ -1049,7 +1049,7 @@ Such are the men who ſow this world with broils:</l>
                      <l>By heaven I would not change my ſtation</l>
                      <l>As citizen of theſe illuſtrious ſtates,</l>
                      <l>
-                        <pb n="28" facs="tcp:031893_0027_0FEF3340B2609758"/>To ſway the Britiſh ſceptre.</l>
+                        <pb n="28" facs="unknown:031893_0027_0FEF3340B2609758"/>To ſway the Britiſh ſceptre.</l>
                   </sp>
                   <sp>
                      <speaker>Preſcott.</speaker>
@@ -1104,7 +1104,7 @@ Such are the men who ſow this world with broils:</l>
                <trailer>End of the ſecond Act.</trailer>
             </div>
             <div n="3" type="act">
-               <pb n="29" facs="tcp:031893_0028_0FEF3342415A8EC0"/>
+               <pb n="29" facs="unknown:031893_0028_0FEF3342415A8EC0"/>
                <head>ACT III.</head>
                <div n="1" type="scene">
                   <head>SCENE <hi>1</hi>ſt.</head>
@@ -1136,7 +1136,7 @@ Such are the men who ſow this world with broils:</l>
                   <l>To frown on me, for tarniſhing their fame,</l>
                   <l>A cenſuring world putting their ſoil'd fingers:</l>
                   <l>
-                     <pb n="30" facs="tcp:031893_0029_0FEF3343F1596470"/>On my fair name, and coupling it with coward;</l>
+                     <pb n="30" facs="unknown:031893_0029_0FEF3343F1596470"/>On my fair name, and coupling it with coward;</l>
                   <l>It is too much, there's madneſs in the thought:</l>
                   <l>Yes, tyrant faſhion! thou ſhalt be obey'd,</l>
                   <l>Thou ſhall be glutted with my life's dear blood.</l>
@@ -1174,7 +1174,7 @@ Such are the men who ſow this world with broils:</l>
                      <l>His gratitude; he calls thee his protector,</l>
                      <l>Defender of the honor of his houſe,</l>
                      <l>
-                        <pb n="31" facs="tcp:031893_0030_0FEF334593D587A8"/>And longs t'embrace thee, and to call thee friend.</l>
+                        <pb n="31" facs="unknown:031893_0030_0FEF334593D587A8"/>And longs t'embrace thee, and to call thee friend.</l>
                   </sp>
                   <sp>
                      <speaker>Abercrombie.</speaker>
@@ -1229,7 +1229,7 @@ Such are the men who ſow this world with broils:</l>
                      <speaker>Abercrombie.</speaker>
                      <l>I cannot, muſt not reaſon:</l>
                      <l>
-                        <pb n="32" facs="tcp:031893_0031_0FEF334A1277D820"/>Perſuaſion lurks in every word of thine:</l>
+                        <pb n="32" facs="unknown:031893_0031_0FEF334A1277D820"/>Perſuaſion lurks in every word of thine:</l>
                      <l>Reject me, hate, deſpiſe me, caſt me off<g ref="char:punc">▪</g>
                      </l>
                      <l>Nor let the ſunſhine of thy patriot virtues</l>
@@ -1271,7 +1271,7 @@ Such are the men who ſow this world with broils:</l>
                      <l>It ſhall be done: command me to deſcribe</l>
                      <l>A nautic circle round the various globe;</l>
                      <l>
-                        <pb n="33" facs="tcp:031893_0032_0FEF334BB16566A8"/>As Cook of deathleſs fame and Anſon did,</l>
+                        <pb n="33" facs="unknown:031893_0032_0FEF334BB16566A8"/>As Cook of deathleſs fame and Anſon did,</l>
                      <l>All, all but honor will I yield to thee.</l>
                   </sp>
                   <sp>
@@ -1310,7 +1310,7 @@ Such are the men who ſow this world with broils:</l>
                      <l>O! cruel fate.</l>
                      <l>Why did we meet, or why now having met?</l>
                      <l>
-                        <pb n="34" facs="tcp:031893_0033_0FEF33501FA0C958"/>Is heaven averſe, and frowns upon our love?</l>
+                        <pb n="34" facs="unknown:031893_0033_0FEF33501FA0C958"/>Is heaven averſe, and frowns upon our love?</l>
                      <l>O Abercrombie leave this wicked war;</l>
                      <l>Bleſt in each other we can bear the taunts,</l>
                      <l>The idle cenſures of a worthleſs world.</l>
@@ -1342,7 +1342,7 @@ Such are the men who ſow this world with broils:</l>
                      <l>Pierc'd by a thouſand wounds his body lie:</l>
                      <l>Leſt waſh'd in blood his hoar locks trail the duſt.</l>
                      <l>
-                        <pb n="35" facs="tcp:031893_0034_0FEF3353AF24E0D0"/>Unnatural child—O cruel Pelican—</l>
+                        <pb n="35" facs="unknown:031893_0034_0FEF3353AF24E0D0"/>Unnatural child—O cruel Pelican—</l>
                      <l>Is the ſoft call of nature ſilenc'd in thee?</l>
                      <l>Or does the furious ſpirit of a pard</l>
                      <l>Thy ſoul inhabit? tis curſed treaſon:</l>
@@ -1374,7 +1374,7 @@ Such are the men who ſow this world with broils:</l>
                      <l>And thinks too highly of you, not to grieve,</l>
                      <l>To ſee you an accomplice in rebellion,</l>
                      <l>
-                        <pb n="36" facs="tcp:031893_0035_0FEF33569A99D468"/>In curſed treaſon, 'gainſt your ſovereign:</l>
+                        <pb n="36" facs="unknown:031893_0035_0FEF33569A99D468"/>In curſed treaſon, 'gainſt your ſovereign:</l>
                      <l>He has commiſſion'd me, to tell you</l>
                      <l>That in reſpect of your unſpotted fame,</l>
                      <l>Your life, and matchleſs qualities, he ſends</l>
@@ -1410,7 +1410,7 @@ Such are the men who ſow this world with broils:</l>
                      <l>To rob of that loftineſs of ſoul,</l>
                      <l>That pride, which makes him ſpurn diſhonor from him;</l>
                      <l>
-                        <pb n="37" facs="tcp:031893_0036_0FEF33582984B150"/>To make him a vile traitor, a baſe ſlave:</l>
+                        <pb n="37" facs="unknown:031893_0036_0FEF33582984B150"/>To make him a vile traitor, a baſe ſlave:</l>
                      <l>Is this what now in England is call'd goodneſs?</l>
                      <l>Rather ſweet heaven! than be that abject thing</l>
                      <l>Your baſhaw's goodneſs wiſhes me to be,</l>
@@ -1450,7 +1450,7 @@ Such are the men who ſow this world with broils:</l>
                      <l>What are your beaſted Engliſh laws to us,</l>
                      <l>Or any laws, which ſanctify injuſtice?</l>
                      <l>
-                        <pb n="38" facs="tcp:031893_0037_0FEF335AD0C0A2A0"/>Is it an Engliſh law, to rob the weak,</l>
+                        <pb n="38" facs="unknown:031893_0037_0FEF335AD0C0A2A0"/>Is it an Engliſh law, to rob the weak,</l>
                      <l>To wring his pittance from the ſhiv'ring poor,</l>
                      <l>To levy taxes like a Ruſſian czar,</l>
                      <l>To ſtop the courſe of juſtice, and let fly</l>
@@ -1491,7 +1491,7 @@ Such are the men who ſow this world with broils:</l>
                      <l>Kings form a horrid junto of conſpiracy,</l>
                      <l>A <hi>Catalinian</hi> compact, 'gainſt the lives,</l>
                      <l>
-                        <pb n="39" facs="tcp:031893_0038_0FEF335F7971FA78"/>The rights, the peace, the freedom of the world:</l>
+                        <pb n="39" facs="unknown:031893_0038_0FEF335F7971FA78"/>The rights, the peace, the freedom of the world:</l>
                      <l>They are the manichean demons, who undo</l>
                      <l>The good which heaven has done;</l>
                      <l>They waſte with ſire</l>
@@ -1526,7 +1526,7 @@ Such are the men who ſow this world with broils:</l>
                      <l>And cloſe with hiſtory of my own apoſtacy:</l>
                      <l>'Till at the horrid tale, his furious eyes</l>
                      <l>
-                        <pb n="40" facs="tcp:031893_0039_0FEF33610F9038F0"/>Run o'er with brutal joy; young man 'tis well:</l>
+                        <pb n="40" facs="unknown:031893_0039_0FEF33610F9038F0"/>Run o'er with brutal joy; young man 'tis well:</l>
                      <l>Good nature may have prompted you to this.</l>
                      <l>Now <hi>once for all</hi> my final anſwer take:</l>
                      <l>The man you ſpeak to, holds himſelf as good,</l>
@@ -1561,7 +1561,7 @@ Such are the men who ſow this world with broils:</l>
                   <l>And every ray of hope, that wou'd beam in,</l>
                   <l>To cheer the joyleſs proſpect of the waſte,</l>
                   <l>
-                     <pb n="41" facs="tcp:031893_0040_0FEF3362A44654C8"/>Keen as the dragon of th' Heſperides,</l>
+                     <pb n="41" facs="unknown:031893_0040_0FEF3362A44654C8"/>Keen as the dragon of th' Heſperides,</l>
                   <l>They intercept; and leave my ſoul a night,</l>
                   <l>So thick and black, that thought doth loſe its way.</l>
                   <l>Anna comes—</l>
@@ -1605,7 +1605,7 @@ Such are the men who ſow this world with broils:</l>
                      <speaker>Anna.</speaker>
                      <l>Ah no—</l>
                      <l>
-                        <pb n="42" facs="tcp:031893_0041_0FEF3114D1F3AC30"/>Cold and diſtreſſing as my tidings are,</l>
+                        <pb n="42" facs="unknown:031893_0041_0FEF3114D1F3AC30"/>Cold and diſtreſſing as my tidings are,</l>
                      <l>They do not reach to this; when from the ſhip,</l>
                      <l>The gallant youth eſpy'd me on the ſhore,</l>
                      <l>Holding with anxious zeal, thy note aloft:</l>
@@ -1641,7 +1641,7 @@ Such are the men who ſow this world with broils:</l>
                      <l>As forlorn hope, devoted ſacrifice,</l>
                      <l>To take the edge of fury off the foe,</l>
                      <l>
-                        <pb n="43" facs="tcp:031893_0042_0FEF31198D5FD018"/>And by my death, to ſeal an army's ſafety;</l>
+                        <pb n="43" facs="unknown:031893_0042_0FEF31198D5FD018"/>And by my death, to ſeal an army's ſafety;</l>
                      <l>But freely, and of mine own accord,</l>
                      <l>Have I ſolicited this arduous poſt,</l>
                      <l>To teach my countrymen contempt of death,</l>
@@ -1673,7 +1673,7 @@ Such are the men who ſow this world with broils:</l>
                         <hi>Our</hi> cannon ſhall obſerve the deepeſt ſilence;</l>
                      <l>But ſuch a ſilence 'twill be, as exiſts</l>
                      <l>
-                        <pb n="44" facs="tcp:031893_0043_0FEF3134EB4F14F8"/>In Aetna or Veſuvius; e'er they roll</l>
+                        <pb n="44" facs="unknown:031893_0043_0FEF3134EB4F14F8"/>In Aetna or Veſuvius; e'er they roll</l>
                      <l>Their ſcalding lava o'er the works of men:</l>
                      <l>
                         <hi>By</hi> and <hi>by,</hi> our anſwer ſhall arrive in death,</l>
@@ -1722,7 +1722,7 @@ Such are the men who ſow this world with broils:</l>
                         <stage>[Preſcott exit.]</stage>
                      </l>
                      <stage>
-                        <pb n="45" facs="tcp:031893_0044_0FEF31380BB83E80"/>[<hi>Warren kneels.</hi>]</stage>
+                        <pb n="45" facs="unknown:031893_0044_0FEF31380BB83E80"/>[<hi>Warren kneels.</hi>]</stage>
                      <l>Now liberty array thee for the fight:</l>
                      <l>Now from thy proper armoury, draw out</l>
                      <l>The furious weapons of deſtructive war,</l>
@@ -1749,7 +1749,7 @@ Such are the men who ſow this world with broils:</l>
                   <stage>[Exit.]</stage>
                </div>
                <div n="3" type="scene">
-                  <pb n="46" facs="tcp:031893_0045_0FEF336A95595CD0"/>
+                  <pb n="46" facs="unknown:031893_0045_0FEF336A95595CD0"/>
                   <head>SCENE 3d.—A VIEW OF WATER.</head>
                   <stage>The Engliſh are ſeen paſſing in boats, to the ſound of Britiſh muſick—they diſembark at the foot of Bunker Hill, and form.</stage>
                   <stage>Percy, Howe, Abercrombie.</stage>
@@ -1796,7 +1796,7 @@ Such are the men who ſow this world with broils:</l>
                      <l>To ſend to Boſton for a reinforcement.</l>
                   </sp>
                   <sp>
-                     <pb n="47" facs="tcp:031893_0046_0FEF336C324C7318"/>
+                     <pb n="47" facs="unknown:031893_0046_0FEF336C324C7318"/>
                      <speaker>Percy.</speaker>
                      <l>Had we not better ſee if the ſupply</l>
                      <l>Is on its way: what say you Abercrombie?</l>
@@ -1839,7 +1839,7 @@ Such are the men who ſow this world with broils:</l>
                <trailer>End of the fourth Act.</trailer>
             </div>
             <div n="5" type="act">
-               <pb n="48" facs="tcp:031893_0047_0FEF336DD47B9F30"/>
+               <pb n="48" facs="unknown:031893_0047_0FEF336DD47B9F30"/>
                <head>ACT V. <hi>BUNKER HILL FORTIFIED</hi>—Diſtant View of Sea and Ships.</head>
                <div type="scene">
                   <stage>Engliſh reinforced, march towards the Hill. The cannon play at intervals to make breaches in the works. Engliſh bands ſtrike up Yankee Doodle in contempt of the Americans. A dead ſilence reigns among the Americans. They are ſeen juſt appearing above the works waiting the attack. Three times the Engliſh make the aſſault, and three times they are beat back. After the third repulſe Warren half deſcends the Hill, and addreſſes his ſoldiers:</stage>
@@ -1860,7 +1860,7 @@ Such are the men who ſow this world with broils:</l>
                      <l>Heroes retire; this day you've done your part:</l>
                      <l>To-morrow we will take another poſt,</l>
                      <l>
-                        <pb n="49" facs="tcp:031893_0048_0FEF311E4568DF58"/>And inch by inch conteſt it with the foe.</l>
+                        <pb n="49" facs="unknown:031893_0048_0FEF311E4568DF58"/>And inch by inch conteſt it with the foe.</l>
                      <l>If every trifling hill be ſo ennobled,</l>
                      <l>In our vaſt Continent's Geography;</l>
                      <l>Columbia may with Rome hold up her head,</l>
@@ -1899,7 +1899,7 @@ Such are the men who ſow this world with broils:</l>
                      <l>Which baffle calculation.</l>
                   </sp>
                   <sp>
-                     <pb n="50" facs="tcp:031893_0049_0FEF312AFA931A18"/>
+                     <pb n="50" facs="unknown:031893_0049_0FEF312AFA931A18"/>
                      <speaker>Howe.</speaker>
                      <l>How many of the foe, in your opinion,</l>
                      <l>Have we diſpatched?</l>
@@ -1953,7 +1953,7 @@ Such are the men who ſow this world with broils:</l>
                      <l>Wolves, do not tear him thus.</l>
                   </sp>
                   <sp>
-                     <pb n="51" facs="tcp:031893_0050_0FEF336F67056910"/>
+                     <pb n="51" facs="unknown:031893_0050_0FEF336F67056910"/>
                      <speaker>Anna.</speaker>
                      <l>O heaven, have pity on her.</l>
                   </sp>
@@ -2014,7 +2014,7 @@ Such are the men who ſow this world with broils:</l>
                      <l>Leſt when the light reviſit her ſad eyes,</l>
                      <l>This ſcene of ſlaughter and her lover's blood</l>
                      <l>
-                        <pb n="52" facs="tcp:031893_0051_0FEF33749BFBB628"/>May root her Phrenzy ſo, that it will live<g ref="char:punc">▪</g>
+                        <pb n="52" facs="unknown:031893_0051_0FEF33749BFBB628"/>May root her Phrenzy ſo, that it will live<g ref="char:punc">▪</g>
                      </l>
                      <l>As long as life.</l>
                   </sp>
@@ -2049,7 +2049,7 @@ Such are the men who ſow this world with broils:</l>
                      <stage>[Pauſes through weakneſs.]</stage>
                      <l>O might I look into the womb of time</l>
                      <l>
-                        <pb n="53" facs="tcp:031893_0052_0FEF337740EE9620"/>And ſee my country's future deſtiny:</l>
+                        <pb n="53" facs="unknown:031893_0052_0FEF337740EE9620"/>And ſee my country's future deſtiny:</l>
                      <l>Cou'd I but ſee her proud democracy,</l>
                      <l>Founded on equal laws, and ſtript entire,</l>
                      <l>Of thoſe unnatural titles and thoſe names</l>
@@ -2086,7 +2086,7 @@ Such are the men who ſow this world with broils:</l>
                      <l>That, ſmiling, midſt the agonies of death,</l>
                      <l>His darling country occupied his thoughts:</l>
                      <l>
-                        <pb n="54" facs="tcp:031893_0053_0FEF312C87C4D4A0"/>That he enjoin'd his ſorrowing kindred</l>
+                        <pb n="54" facs="unknown:031893_0053_0FEF312C87C4D4A0"/>That he enjoin'd his ſorrowing kindred</l>
                      <l>To render thanks to the great god of freedom,</l>
                      <l>That Warren did his duty: leave me now.</l>
                      <l>America—my country! bleſs thee heaven.</l>
@@ -2116,7 +2116,7 @@ Such are the men who ſow this world with broils:</l>
                      <l>You daughters of Columbia mourn,</l>
                      <l>With treſſes looſe, and hearts forlorn:</l>
                      <l>
-                        <pb n="55" facs="tcp:031893_0054_0FEF3378E9D0C1F8"/>Amidſt the heaps of Britiſh ſlain,</l>
+                        <pb n="55" facs="unknown:031893_0054_0FEF3378E9D0C1F8"/>Amidſt the heaps of Britiſh ſlain,</l>
                      <l>Thy Warren's body ſtrews the plain;</l>
                      <l>His precious blood was ſhed for you,</l>
                      <l>O let us ſhed our tears in lieu.</l>
